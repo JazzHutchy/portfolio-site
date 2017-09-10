@@ -1,0 +1,181 @@
+section.navwrapper {
+    position: fixed;
+    width: 100%;
+    height: 35px;
+    background-color: $darkslategray;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    z-index: 20;
+    // background: lime;
+
+    /*Navbar Wrapper*/
+    .navbuttons{
+        position: fixed;
+        display: flex;
+        flex-wrap: wrap;
+        align-self: center;
+        top: 0;
+        padding: 0;
+        margin: 0;
+        width: 500px;
+        height: 35px;
+        // background-color: $darkslategray;
+        justify-content: center;
+
+        /* NAVBOX */
+        .navbox {
+            position: relative;
+            flex: auto;
+            align-self: center;
+            width: 64px;
+            height: 35px;
+            text-align: center;
+            line-height: 32px;
+            // background: #222C24;
+            // background: red;
+            list-style-type: none;
+            a {
+                text-decoration: none;
+                color: $lightsteelblue;
+            }
+        }
+            
+    }
+}
+
+/*About Wrapper*/
+section.aboutwrapper{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: $darkslateblue;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 20px 0px 0px 0px;
+
+    .aboutme-flex{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    
+        .bio-flex{
+            display: flex;
+            flex-direction: column;
+            p {
+                padding: 7px;
+                margin-right: 15px;
+                margin-left: 15px;
+            }
+        }
+
+        .personalphoto-flex{
+            margin: 40px 0px 40px 0px;
+            display: flex;
+            align-self: center;
+            flex-direction: column;
+        }
+    }
+}
+
+/*Skills Wrapper*/
+section.skillswrapper{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: $lightseagreen;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 20px 0px 0px 0px;
+    text-align: center;
+
+    .icons-flex{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 40px 0px 40px 0px;
+        justify-content: center;
+
+        .icons{
+            flex: auto;
+            padding: 6px;
+        }
+    }
+}
+
+
+/*Portfolio Wrapper*/
+section.portfoliowrapper{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: $lightsteelblue;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 20px 0px 0px 0px;
+    text-align: center;
+
+    .portfolio-flex{
+        display: flex;
+        flex-direction: column;
+        padding: 20px 0px 40px 0px;
+
+        .portfolio-section{
+            display: flex;
+            padding-bottom: 15px;
+
+            .portfolio-item{
+                flex: auto;
+                padding-left: 40px;
+            }
+
+            .portfolio-item-photo{
+                flex: auto;
+                text-align: left;
+                padding-left: 30px;
+            }
+        }
+    }
+}
+
+/*Resume Wrapper*/
+section.resumewrapper{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: $lightseagreen;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 20px 0px 0px 0px;
+    text-align: center;
+}
+
+/*Contact Form Wrapper*/
+section.contactwrapper{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: $darkslateblue;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 20px 0px 20px 0px;
+    text-align: center;
+}
+
+/*Footer Wrapper*/
+section.footerwrapper{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: $darkslategray;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 20px 0px 20px 0px;
+}
+

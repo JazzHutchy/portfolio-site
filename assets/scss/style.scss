@@ -9,4 +9,80 @@ $darkslategray: #232D24;
 @import 'nav';
 @import 'flexbox';
 @import 'images';
+@import 'responsive';
 
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    font-family: 'Reem Kufi', sans-serif;
+    padding-left: 30px;
+}
+
+h1{
+    font-family: 'Reem Kufi', sans-serif;
+}
+
+p{
+    font-family: 'Metrophobic', sans-serif;
+}
+
+// .jh-logo{
+//     position: absolute;
+//     width: 123px;
+//     height: 114px;
+//     left: 98px;
+//     top: 83px;
+//     background: #3D707E;
+//     z-index: -1;
+// }
+
+.j-logo p{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 144px;
+    color: #3D707E;
+    position: absolute;
+    width: 70.23px;
+    height: 114px;
+    left: 98px;
+    top: 83px;
+}
+// .j-logo p{
+//     font-family: 'Source Code Pro', monospace;
+//     letter-spacing: -0.17em;
+// }
+
+.h-logo p{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 100px;
+    color: #3D707E;
+    position: absolute;
+    width: 63.73px;
+    height: 73.79px;
+    left: 157.27px;
+    top: 113.75px;
+}
+
+.name-under-logo{
+    position: absolute;
+    width: 264px;
+    height: 70px;
+    left: 36px;
+    top: 237px;
+    font-family: 'Reem Kufi', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 7.2px;
+    color: #CED2D2;
+}
+
+.footer-text{
+    color: $lightsteelblue;
+    text-align: center;
+    padding: 40px 0px 40px 0px;
+}
