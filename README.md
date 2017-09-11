@@ -8,6 +8,7 @@ The website is for viewing by potential employers and individuals who might be i
 # Design Decisions
 Made the website a single page, which in theory should make translating to additional platforms easier.
 Chose a colour palette based on images of mountains as I found fascinating images of them on Pinterest.
+https://au.pinterest.com/jaredhutchinson99/moodboardinspiration/
 
 # Heuristics
 Aimed to give the website an easy to use layout without too much clutter.
