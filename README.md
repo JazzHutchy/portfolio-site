@@ -23,11 +23,12 @@ Headings: Reem Kufi google font
 
 Regular text: Metrophobic google font
 
-Iphone SE font size: 12px
+General font sizes:
+Iphone SE: 12px
 
-Ipad font size:
+Ipad font: 14px
 
-Desktop font size: 
+Desktop font: 18px
 
 # Logos
 **See Figma for logo design process**
