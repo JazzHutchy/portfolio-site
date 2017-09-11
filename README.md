@@ -11,13 +11,22 @@ Made the website a single page, which in theory should make translating to addit
 Website Inspirations --
 https://www.themuse.com/advice/the-35-best-personal-websites-weve-ever-seen
 
+Devon Stank - https://www.devonstank.com/
+
+Nathaniel Koloc - http://www.nathanielkoloc.com/
+
+Hannah Silverton - http://www.hannahsilverton.com/
+
 Colour -- 
-Chose a colour palette based on images of mountains as I found fascinating images of them on Pinterest.
+- Chose a colour palette based on images of mountains as I found fascinating images of them on Pinterest.
 https://au.pinterest.com/jaredhutchinson99/moodboardinspiration/
+- I then uploaded the image to the Canva colour picker to determine colour theme to choose. https://www.canva.com/color-palette/
 
 # Heuristics
 - Aimed to give the website an easy to use layout without too much clutter.
 - Website is a single page and user can quickly and easily use the navbar to move from one section to the next.
+- Wanted to utilise Javascript to scroll up and down the page, took inspiration from a friends website that used it https://www.xerath.com.au/#about
+
 
 # Wireframes
 Figma: 
