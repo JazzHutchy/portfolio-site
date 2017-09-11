@@ -6,7 +6,7 @@ Link: https://artist-rosalind-80175.netlify.com/
 The website is for viewing by potential employers and individuals who might be interested in looking into partnering up.
 
 # Design Decisions
-Made the website a single page, which in theory should make translating to additional platforms easier
+Made the website a single page, which in theory should make translating to additional platforms easier.
 Chose a colour palette based on images of mountains as I found fascinating images of them on Pinterest.
 
 # Heuristics
