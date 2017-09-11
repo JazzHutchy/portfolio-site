@@ -8,6 +8,9 @@ The website is for viewing by potential employers and individuals who might be i
 # Design Decisions
 Made the website a single page, which in theory should make translating to additional platforms easier.
 
+Website Inspirations --
+https://www.themuse.com/advice/the-35-best-personal-websites-weve-ever-seen
+
 Colour -- 
 Chose a colour palette based on images of mountains as I found fascinating images of them on Pinterest.
 https://au.pinterest.com/jaredhutchinson99/moodboardinspiration/
