@@ -20,9 +20,13 @@ https://www.figma.com/file/OQHhbwPkhi8EgQ24OlyNxjMp/Portfolio-website-plan?node-
 
 # Style Guide
 Headings: Reem Kufi google font
+
 Regular text: Metrophobic google font
+
 Iphone SE font size: 12px
+
 Ipad font size:
+
 Desktop font size: 
 
 # Logos
