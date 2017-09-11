@@ -2,6 +2,8 @@
 My personal website
 Website design Documentation:
 
+Link: https://artist-rosalind-80175.netlify.com/
+
 1.
 The website is for viewing by potential employers and individuals who might be interested in looking into partnering up.
 
