@@ -25,9 +25,11 @@ Regular text: Metrophobic google font
 
 General font sizes:
 
-Iphone SE: 12px
-Ipad font: 14px
-Desktop font: 18px
+Iphone SE - 12px
+
+Ipad font - 14px
+
+Desktop font - 18px
 
 # Logos
 **See Figma for logo design process**
