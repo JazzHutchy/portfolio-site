@@ -49,4 +49,4 @@ Desktop font - 18px
 
 # Reflection
 
--I want to redo my site over and choose a simplier design that better reflects my experiences and who I am. I felt like I was trying to be someone who I'm not.
+- I want to redo my site over and choose a simplier design that better reflects my experiences and who I am. I felt like I was trying to be someone who I'm not.
