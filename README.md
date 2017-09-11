@@ -19,6 +19,8 @@ Figma:
 https://www.figma.com/file/OQHhbwPkhi8EgQ24OlyNxjMp/Portfolio-website-plan?node-id=89%3A3
 
 # Style Guide
+Logo: Source Code Pro font
+
 Headings: Reem Kufi google font
 
 Regular text: Metrophobic google font
