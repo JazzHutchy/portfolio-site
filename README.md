@@ -1,4 +1,4 @@
-# Portfolio-Site: WEBSITE DESIGN DOCUMENTATION
+# Portfolio-Site: Website documentation
 
 Link: https://artist-rosalind-80175.netlify.com/
 
