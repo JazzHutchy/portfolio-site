@@ -1,5 +1,4 @@
 # portfolio-site
-My personal website
 
 WEBSITE DESIGN DOCUMENTATION
 
