@@ -1,6 +1,6 @@
 # portfolio-site
 My personal website
-Website design Documentation:
+WEBSITE DESIGN DOCUMENTATION
 
 Link: https://artist-rosalind-80175.netlify.com/
 
