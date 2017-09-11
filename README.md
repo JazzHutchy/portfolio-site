@@ -24,10 +24,9 @@ Headings: Reem Kufi google font
 Regular text: Metrophobic google font
 
 General font sizes:
+
 Iphone SE: 12px
-
 Ipad font: 14px
-
 Desktop font: 18px
 
 # Logos
